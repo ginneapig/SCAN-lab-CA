@@ -1,9 +1,8 @@
-'''
 # Annie Gao
 # Created: 10/10/2019
 # Last edited: 10/10/2019
 
-This program's purpose is to upload ANAM and PAI files,
+'''This program's purpose is to upload ANAM and PAI files,
 both usually in PDF format, to REDCap for the TBI Model arm
 of the SCAN lab.'''
 ##Currently only uploading PAI files if .txt type. 
