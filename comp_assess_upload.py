@@ -12,14 +12,10 @@ of the SCAN lab.'''
 import csv
 
 def main():
-    pai_file = 'TBI_999.txt'
-    # may remove this list later
+    pai_file = input('Enter the name of the PAI file (include .txt): ')
     
     fixed_headers, fixed_entries = org_pai(pai_file)
     create_pai_csv(fixed_headers, fixed_entries)
-
-
-
 
 def org_pai(pai_file):
     '''This takes a file name and attempts opening it.
@@ -62,7 +58,9 @@ def org_pai(pai_file):
 
 def create_pai_csv(fixed_headers, fixed_entries):
     '''Opens a new CSV file and writes the row of headers as well as
-    the row of data for one participant.'''
+    the row of data for one participant.
+    PARAM: list of headers, list of entries
+    RETURN: none'''
     with open('PAI_upload.csv', mode='w') as csvfile:
         pai_writer = csv.writer(csvfile, delimiter=',')
         pai_writer.writerow(fixed_headers)
