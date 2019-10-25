@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
+
+States how to convert PDFs to images, then how to use OCR 
+to read the content from the image and store it in a text file.
+
+For my computer:
+$ pip install pytesseract
+$ pip install pdf2image
+$ brew install tesseract
+$ brew install poppler <-- used for pdf2image, supposedly for page count

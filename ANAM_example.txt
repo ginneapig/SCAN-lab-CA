@@ -1,0 +1,377 @@
+ANAM Performance Report
+June 20, 2018 12:22 PM /|Sess: 01
+ID: MTBI_BF
+Name: ,
+Sex: F Age: 26 TBI Model
+NOTICE
+
+Data presented in this report have been adjusted to allow for continued comparisons to baseline and normative data.
+
+For more information, please see the ANAM manual.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PERFORMANCE AT A GLANCE
+oie vs onan gence Game Gm
+Sleep Scale (Sleepiness)
+? Simple Reaction Time (Reaction Time)
+? | Code Substitution - Learning (Learning)
+? Procedural Reaction Time (Attention/ Proc. Speed)
+? Mathematical Processing (Working Memory)
+? Matching to Sample (Spatial Work. Memory)
+? | Code Substitution - Delayed (Delayed Memory)
+? | Simple Reaction Time (R) (Reaction Time) | | | | | |
+COMPOSITE SCORE UMMM
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+| | | | Score: 1.02
+2 3
+
+ 
+
+PERFORMANCE DETAIL YyyyyYmmww@w@
+
+ 
+
+ 
+
+SLEEP SCALE (SLEEPINESS) [6/ 20/2018, 12:27 PM]
+Score : 4 - A little tired and having mild difficulty concentrating.
+
+ 
+
+ 
+
+SIMPLE REACTION TIME (REACTION TIME) [6/ 20/2018, 12:29 PM]
+
+Comparison Group
+N Mean StDev
+
+ 
+
+ 
+
+Correct: 40 Incorrect: 0 Lapse: 0 Score %ile | StdSc
+(C) (8) (A)
+Mesn RT (msec) (OA 280 17 98
+Throughput 214 16 93
+oO 20 40 60 80 100
+Percentile
+
+113-267 77
+113-233 41
+
+ 
+
+ 
+
+CODE SUBSTITUTION - LEARNING (LEARNING) [6/ 20/2018, 12:33 PM]
+
+Comparison Group
+N Mean StDev
+
+ 
+
+ 
+
+Correct: 71 Incorrect: 1 Lapse: 0 Score %ile §StdSc
+(©) (8) (A)
+Mean RT (mse) 885 81 110
+% Coret) ——————____—T- 99 88 107
+Throughput 67 83 115
+0 20CiaDs—(<téistC‘i‘iaKOC
+Percentile
+
+112 1122 342
+112 96 5
+112 55 13
+
+ 
+
+ 
+
+PROCEDURAL REACTION TIME (ATTENTION/ PROC. SPEED) [6/20/2018, 12:38 PM]
+
+Comparison Group
+N Mean StDev
+
+ 
+
+ 
+
+Correct: 31 Incorrect: 1 Lapse: 0 Score %ile | StdSc
+(C) (B) (A)
+Mean RT (msec) hh 431 100 116
+% Coret) 97 63 103
+Throughput 135 99 126
+0 2 4 60 #80 100
+Percentile
+
+111 580 139
+111 96 5
+111 103 18
+
+ 
+
+ 
+
+MATHEMATICAL PROCESSING (WORKING MEMORY) [6/20/2018, 12:42 PM]
+
+Comparison Group
+N Mean StDev
+
+ 
+
+ 
+
+Correct: 19 Incorrect: 1 Lapse: 0 Score %ile §StdSc
+(©) (8) (A)
+Mean RT (msec)| (OA 2379 53 104
+bord) 95 60 101
+Throughput 24 54 101
+0 2060ClUs—“(<itiatCiKCD
+Percentile
+
+109 2581 762
+109 94 7
+109 24 7
+
+ 
+
+ 
+
+1 of 2 Report Created October 10, 2019 using APR-STD-4.1.1
+
+www.csrc.ou.edu © csrcANAM Performance Report
+June 20, 2018 12:22 PM /|Sess: 01
+ID: MTBI_BF
+Name: ,
+Sex: F Age: 26 TBI Model
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PERFORMANCE DETAIL (Continued) YyyyywwWWWM|WWW@| =|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MATCHING TO SAMPLE (SPATIAL WORK. MEMORY) [6/20/ 2018, 12:46 PM] Comparison Group
+Correct: 19 Incorrect: 1 Lapse: 0 Score %ile | StdSc N Mean StDev
+(C) (8) (A)
+Mean RT (mse), 1196 87 116 108 1693 454
+% Comect] A 95 68 103 108 94 7
+Throughput 48 90 121 108 35 10
+0 20 64006600 8Dts«éitD
+Percentile
+CODE SUBSTITUTION - DELAYED (DELAYED MEMORY) [6/20/ 2018, 12:49 PM] Comparison Group
+Correct: 34 Incorrect: 2 Lapse: 0 Score %ile §StdSc N Mean StDev
+(C) (8) (A)
+Mesn RT (msec) (20 772 = 93 116 106 1125 322
+% Conect) A 94 8643 103 106 = 93 8
+Throughput 74 89 120 106 53 16
+o 20 6©64400C ls 6ti(‘iCS
+Percentile
+SIMPLE REACTION TIME (R) (REACTION TIME) [6/ 20/2018, 12:52 PM] Comparison Group
+Correct: 37 Incorrect: 0 Lapse: 0 Score %ile | StdSc N Mean StDev
+(C) (8) (A)
+Mesn RT (msec)} (OA 264 = 33 101 113 267 77
+Throughput 227 32 98 113 233 41
+oO 2006 400—l—sd6tiCéidCD
+Percentile
+REFERENCE
+
+Category lower limits for Below Average (9th percentile, 80.5 standard score) and Clearly Below Average (2nd
+percentile, 70 standard score) are based on Hannay, H. J., & Lezak, M. D. (2004). The neuropsychological
+examination: Interpretation. In M. D. Lezak, D. B. Howieson, & D. W. Loring (Eds.), Neuropsychological Assessment
+(pp. 133-156). New York: Oxford University Press.
+
+1Randolph, C., Millis, S., Barr, W. B., McCrea, M., Guskiewicz, K. M., Hammeke, T. A., & Kelly, J. P. (2009). Concussion
+symptom inventory: an empirically derived scale for monitoring resolution of symptoms following sport-related
+concussion. Archives of clinical neuropsychology, 24 (3), 219-229.
+
+DISCLAIMER
+
+This ANAM Performance Report does not constitute the practice of medicine or the provision of professional health
+care advice. The information provided by this report is of a general nature and does not represent medical advice, a
+diagnosis, or prescription for treatment. The patient is advised to seek the advice of a qualified medical professional
+for interpretation of test results. CSRC and the University of Oklahoma are not responsible for any decisions made
+based on information contained in the report. The patient's qualified medical professional has the sole responsibility
+for establishing diagnosis and suggesting appropriate treatment.
+
+2 of 2 Report Created October 10, 2019 using APR-STD-4.1.1 www.csrc.ou.edu © csrc
