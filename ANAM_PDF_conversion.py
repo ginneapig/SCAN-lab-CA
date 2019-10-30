@@ -1,3 +1,8 @@
+# Annie Gao
+# anniegao@email.arizona.edu
+# Created: 10/23/2019
+# Last edited: 10/25/2019
+
 '''This program attempts to use Optical Character Recognition (OCR)
 libraries to extract text information out of a PDF. This focuses on
 pulling information out of ANAM.'''
