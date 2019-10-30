@@ -1,5 +1,6 @@
 # Computerized Assessments Upload Script
 # Annie Gao
+# anniegao@email.arizona.edu
 # Created: 09/25/2019
 # Last edited: 10/10/2019
 
