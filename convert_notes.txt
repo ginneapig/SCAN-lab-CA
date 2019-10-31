@@ -11,3 +11,5 @@ $ brew install poppler <-- used for pdf2image, supposedly for page count
 
 Brew is only used for Macs, yum is used for Linux, not sure what package manager
 is used for other OSes.
+
+Link for info on other OCR tools: https://source.opennews.org/articles/so-many-ocr-options/
