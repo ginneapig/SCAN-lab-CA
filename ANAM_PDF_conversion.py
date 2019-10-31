@@ -24,8 +24,8 @@ def main():
         print('beginning', headers_written)
         new_ptp = input('Enter the participant ID you would like uploaded: ')
         #new_ptp = '100'
-        file_name = './ANAM_example' # this will later incorporate ptp id
-        #file_name = input('Name of ANAM file (do not include .pdf)? ')
+        #file_name = './ANAM_example' 
+        file_name = input('Name of ANAM file (do not include .pdf)? ')
         pages = PDF_to_images(file_name)
         output_file = images_to_text(file_name, pages)
         
